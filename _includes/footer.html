@@ -1,0 +1,55 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          {% if site.address %}
+            <li>{{ site.address }}</li>
+            {% if site.address2 %}
+              <li>{{ site.address2 }}</li>
+            {% endif %}
+            {% if site.address3 %}
+              <li>{{ site.address3 }}</li>
+            {% endif %}
+            <li>{{ site.city }}, {{ site.state }} {{ site.zip }}</li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="{{ site.url }}">{{ site.url }}</a></li>
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.scholar_username %}
+          <li>
+            {% include icon-scholar.html username=site.scholar_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <img src="/img/by-sa.png" alt="by-sa" style="width:100px;">
+        <ul class="contact-list">
+          <li>Content on this site is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>. Theme based on <a href="https://github.com/jekyll/minima">minima</a>.</li>
+        </ul>
+        </div>
+      </div>
+
+  </div>
+
+</footer>

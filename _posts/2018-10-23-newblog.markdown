@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to new blog"
+date:   2018-10-23 12:00:00 +0530
+categories: defense
+---
+
+Welcome to the new blog.
