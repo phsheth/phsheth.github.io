@@ -16,7 +16,7 @@ permalink: /cv/
 *GE Transportation, Bengaluru, India*
 *April 2012 -- Feb 2015*
 
-**Senior CAE Engineer**
+**CAE Engineer**
 *Hinode Technologies Pvt. Ltd., Chennai, India*
 *December 2009 -- April 2012*
 
