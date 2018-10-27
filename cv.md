@@ -3,14 +3,6 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-# Education
-
-**Coventry University**
-M.Sc. Automotive Engineering (September 2008)
-
-**Sardar Patel College of Engineering - Mumbai University**
-B.E. Mechanical Engineering (May 2007)
-
 # Work Experience
 **Lead Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
@@ -23,3 +15,19 @@ B.E. Mechanical Engineering (May 2007)
 **Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
 *April 2012 -- Feb 2015*
+
+**Senior CAE Engineer**
+*Hinode Technologies Pvt. Ltd., Chennai, India*
+*December 2009 -- April 2012*
+
+**Application Engineer**
+*DesignTech Systems Ltd., Chennai, India*
+*December 2008 -- November 2009*
+
+# Education
+
+**Coventry University**
+M.Sc. Automotive Engineering (September 2008)
+
+**Sardar Patel College of Engineering - Mumbai University**
+B.E. Mechanical Engineering (May 2007)
