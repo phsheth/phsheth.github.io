@@ -21,7 +21,7 @@ permalink: /cv/
 *December 2009 -- April 2012*
 
 **Application Engineer**
-*DesignTech Systems Ltd., Chennai, India*
+*DesignTech Systems Ltd., Pune, India*
 *December 2008 -- November 2009*
 
 # Education
