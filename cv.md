@@ -7,7 +7,7 @@ permalink: /cv/
 **Lead Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
 *May 2016 -- Present*
-GE Analytics Engineer Certification [Nov 2018]
+*GE Analytics Engineer Certification [Nov 2018]*
 
 **Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
