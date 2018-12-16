@@ -31,7 +31,7 @@ I became a father.
 - Probability and Statistics [in-progress] [Stanford Lagunita]
 - Statistical Learning [planned] [Stanford Lagunita]
 
-I came across many statistical terms and fundamentals whilst working on the Analytics Engineer certification and whilst participating in the hackathon - the December schedule are to cover those fundamentals that were missing from the previous courses - the Stanford Lagunita course - covers them in good depth.
+I came across many statistical terms and fundamentals whilst working on the Analytics Engineer certification and whilst participating in the hackathon. Although I learnt them from various sources whilst finishing the certificaiton case study, I wanted to do a graduate level course that covered all the fundamental systematically - the December schedule are to cover those fundamentals that were missing from the previous courses - both the Stanford Lagunita courses - covers them in good depth, and I also get my hands dirty on R, because they don't have a Python option!
 
 
 
