@@ -7,28 +7,35 @@ categories: year review
 
 2018 has been a very busy year. Below is a month wise summary:
 
-February: I became a father
+##### February:
+I became a father
 
-May: (re)Started my Machine Learning Journey by starting Neural Networks. Thanks to @teoliphant
+##### May:
+- (re)Started my Machine Learning Journey by starting Neural Networks. Thanks to [Travis Oliphant](https://www.linkedin.com/in/teoliphant/) for suggesting me to start learning that.
 
-June: Neural Networks and Deep Learning [DeepLearning.ai] [Coursera]
+##### June:
+- Neural Networks and Deep Learning [DeepLearning.ai] [Coursera]
 
-July: Improving Deep Neural Networks, Hyperparameter tuning, Regularization and Optimisation [Coursera]
+##### July:
+- Improving Deep Neural Networks, Hyperparameter tuning, Regularization and Optimisation [Coursera]
 
-August: Data Scientist with Python Track [DataCamp.com]
-        Convolution Neural Networks [Coursera]
+##### August:
+- Data Scientist with Python Track [DataCamp.com]
+- Convolution Neural Networks [Coursera]
 
-November: GE Analytics Engineer Certification completion,
-	    	  GE Hackathon [my first Machine Learning hackathon participation]
+##### November:
+- GE Analytics Engineer Certification completion
+- GE Hackathon [my first Machine Learning hackathon participation]
 
-December: Probability and Statistics [in-progress] [Stanford Lagunita]
-          Statistical Learning [planned] [Stanford Lagunita]
+##### December:
+- Probability and Statistics [in-progress] [Stanford Lagunita]
+- Statistical Learning [planned] [Stanford Lagunita]
 
 I came across many statistical terms and fundamentals whilst working on the Analytics Engineer certification and whilst participating in the hackathon - the December schedule are to cover those fundamentals that were missing from the previous courses - the Stanford Lagunita course - covers them in good depth.
 
 
 
-## Plan for 2019:
+#### Plan for 2019:
 
 1. Time series Analysis and Prediction
 
