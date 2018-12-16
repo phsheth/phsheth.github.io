@@ -5,13 +5,13 @@ date:   2018-12-18 21:55:00 +0000
 categories: year review
 ---
 
-2018 has been a very busy year. Below is a month wise summary:
+2018 has been a very busy year. Along with the day job, this post records all the new learnings in the data science side. Below is a month wise summary:
 
 ##### February:
-I became a father
+I became a father.
 
 ##### May:
-- (re)Started my Machine Learning Journey by starting Neural Networks. Thanks to [Travis Oliphant](https://www.linkedin.com/in/teoliphant/) for suggesting me to start learning that.
+- (re)Started my Machine Learning Journey by starting Neural Networks. Thanks to [Travis Oliphant](https://www.linkedin.com/in/teoliphant/) for suggesting me to start learning neural networks.
 
 ##### June:
 - Neural Networks and Deep Learning [DeepLearning.ai] [Coursera]
@@ -24,7 +24,7 @@ I became a father
 - Convolution Neural Networks [Coursera]
 
 ##### November:
-- GE Analytics Engineer Certification completion
+- GE Analytics Engineer Certification completion. Thanks to my manager at work [B Chandra Kesavan](https://www.linkedin.com/in/chandrakesavan-b-76973b16/) for motivating me to complete this at the start of the year.
 - GE Hackathon [my first Machine Learning hackathon participation]
 
 ##### December:
@@ -32,6 +32,7 @@ I became a father
 - Statistical Learning [planned] [Stanford Lagunita]
 
 I came across many statistical terms and fundamentals whilst working on the Analytics Engineer certification and whilst participating in the hackathon - the December schedule are to cover those fundamentals that were missing from the previous courses - the Stanford Lagunita course - covers them in good depth.
+
 
 
 
@@ -43,4 +44,4 @@ I came across many statistical terms and fundamentals whilst working on the Anal
 
 3. Build systems around neural networks for application in Mechanical Engineering.
 
-4. Continue work on the signal processing application
+4. Continue work on the signal processing application, [Siglyser](https://siglyser.github.io/) [App](http://siglyser.herokuapp.com) - which means learning more Flask.
