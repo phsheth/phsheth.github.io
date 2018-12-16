@@ -45,3 +45,9 @@ I came across many statistical terms and fundamentals whilst working on the Anal
 3. Build systems around neural networks for application in Mechanical Engineering.
 
 4. Continue work on the signal processing application, [Siglyser](https://siglyser.github.io/) [App](http://siglyser.herokuapp.com) - which means learning more Flask.
+
+5. Learn vim
+
+6. Learn Python Generators in detail.
+
+7. Develop a python library that will support the [Siglyser](https://siglyser.github.io/) [App](http://siglyser.herokuapp.com).
