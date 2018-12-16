@@ -46,8 +46,10 @@ I came across many statistical terms and fundamentals whilst working on the Anal
 
 4. Continue work on the signal processing application, [Siglyser](https://siglyser.github.io/) [App](http://siglyser.herokuapp.com) - which means learning more Flask.
 
-5. Learn vim
+5. *Develop a small IoT gadget that does some remote communication or data collection.*
 
 6. Learn Python Generators in detail.
 
 7. Develop a python library that will support the [Siglyser](https://siglyser.github.io/) [App](http://siglyser.herokuapp.com).
+
+8. Learn vim
