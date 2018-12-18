@@ -2,7 +2,8 @@
 layout: post
 title:  "First Blog"
 date:   2006-07-27 21:55:00 +0000
-categories: new blog
+categories: blog
+tag: first blog
 ---
 
 Hi people
