@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello, I am Dr. Bhalerao"
 date:   2006-08-06 03:01:00 +0000
-categories: new blog
+categories: blog
+tag: random
 ---
 
 This is not my family doctors style of greeting. Dr. Bhalerao is a character in a movie called Bluffmaster. Agreed that it was a fake name in the movie itself, created for the storyline, who actually turned out to be an animal doctor at the end, Boman Irani (awesome artist) is the actor who played the role....but he did have its own emotional set of dialogues, which touched my heart. here is the story by him (nicely narrated by him, realistic) which made the impact:
