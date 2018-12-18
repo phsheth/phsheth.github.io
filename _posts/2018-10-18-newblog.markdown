@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to new blog"
 date:   2018-10-18 12:00:00 +0530
-categories: new blog
+categories: blog
+tag: new blog
 ---
 
 Welcome to the new blog.
