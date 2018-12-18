@@ -2,7 +2,8 @@
 layout: post
 title:  "2018: Year in Review"
 date:   2018-12-17 02:15:00 +0000
-categories: year review
+categories: blog
+tag: year review
 ---
 
 2018 has been a very busy year. Along with the day job, this post records all the new learnings in the data science side. Below is a month wise summary:
