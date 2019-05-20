@@ -10,3 +10,10 @@ I came across a requirement for finding two unknows with two equations. Whilst E
 
 
 {% gist 7b50bf89f6a426b4d27baecbe3454dd6 %}
+
+
+```python
+for i in order_list:
+    globals()['order_%s' % i] = np.array([i])
+    print ("Engine %s" % i, "Order:", globals()['order_%s' % i])
+```
