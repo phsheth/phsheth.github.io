@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "First Blog"
-date:   2006-07-27 21:55:00 +0000
+title:  "Finding Roots of Equations using Scipy Optimize"
+date:   2019-05-20 13:12:00 +0530
 categories: blog
-tag: first blog
+tag: python, scipy
 ---
 
 Hi people
