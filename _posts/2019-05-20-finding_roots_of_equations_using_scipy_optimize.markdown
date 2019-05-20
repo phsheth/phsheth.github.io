@@ -6,10 +6,7 @@ categories: blog
 tag: python, scipy
 ---
 
-Hi people
+I came across a requirement for finding two unknows with two equations. Whilst Excel and MathCAD would make the tatk
 
 
-
-this is the first blog i have ever written. Writing blogs has been on my mind for long, cause everytime i thought of starting a blog....i knew i will post one or two and end the story.
-
-Keep checking then !!
+{% gist 7b50bf89f6a426b4d27baecbe3454dd6 %}
