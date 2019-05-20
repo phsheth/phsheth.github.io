@@ -6,6 +6,8 @@ categories: blog
 tag: python, scipy
 ---
 
+<TESTING POST>
+
 I came across a requirement for finding two unknows with two equations. Whilst Excel and MathCAD would make the task easier to some extent, achieving this using Python requires a bit of time and understanding.
 
 
