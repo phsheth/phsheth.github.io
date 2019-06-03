@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Finding Roots of Equations using Scipy Optimize"
+excerpt: "Checking excerpt capability."
 date:   2019-05-20 13:12:00 +0530
 categories: blog
 tag: python, scipy
