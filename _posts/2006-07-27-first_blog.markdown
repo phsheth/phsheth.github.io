@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Blog"
-excerpt: "Checking excerpt capability."
+excerpt: " "
 date:   2006-07-27 21:55:00 +0000
 categories: blog
 tag: first blog
