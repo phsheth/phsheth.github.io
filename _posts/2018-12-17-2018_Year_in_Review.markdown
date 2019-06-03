@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "2018: Year in Review"
+excerpt: "This post summarises the work done and achievements in the year 2018."
+
 date:   2018-12-17 02:15:00 +0000
 categories: blog
 tag: year review
