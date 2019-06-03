@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello, I am Dr. Bhalerao"
+excerpt: "Similarties in life and movies."
 date:   2006-08-06 03:01:00 +0000
 categories: blog
 tag: random
