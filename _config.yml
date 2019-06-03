@@ -22,6 +22,7 @@ zip: 560048
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 kramdown:
   input: GFM
   hard_wrap: true
