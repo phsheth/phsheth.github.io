@@ -4,6 +4,7 @@ title:  "Plant Watering Project - the story Last Year"
 excerpt: "A critical review of my plant watering project"
 date:   2018-03-31 12:17:00 +0530
 categories: blog
+comments: true
 tag: python, scipy
 ---
 
