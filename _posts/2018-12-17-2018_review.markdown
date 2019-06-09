@@ -5,6 +5,7 @@ excerpt: "This post summarises the work done and achievements in the year 2018."
 
 date:   2018-12-17 02:15:00 +0000
 categories: blog
+comments: true
 tag: year review
 ---
 
