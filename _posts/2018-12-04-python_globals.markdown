@@ -4,6 +4,7 @@ title:  "The Python globals() Function"
 excerpt: "A look into the python globals() functionality."
 date:   2018-12-04 11:54:00 +0530
 categories: blog
+comments: true
 tag: python
 ---
 
