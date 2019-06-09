@@ -4,6 +4,7 @@ title:  "SigLyser - Inception"
 excerpt: "My first attempt at developing a software for people."
 date:   2018-04-29 13:54:00 +0530
 categories: blog
+comments: true
 tag: python, scipy
 ---
 I had been tinkering around the idea of making an open source signal processing application for a long time. I started building SigLyser around Scilab in 2014. After creating a basic GUI - I found Scilab lacking to handle the data structure and also the GUI making part. After learning Python - I found it a better candidate  and decided to move SigLyser to Python.
