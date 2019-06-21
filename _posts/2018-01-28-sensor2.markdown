@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Sensor data to Internet using Arduino and PC – Part 2"
+excerpt: "Part 2 of 3 for uploading sensor data to internet."
+date:   2018-01-28 22:49:00 +0530
+categories: blog
+comments: true
+tag: sensors, iot, python
+---
+
+Part 2: Reading serial data using Python
+
+Part 1 shows how to generate data from the Arduino to the serial that Python can read. This part shows reading this serial data from the COM port using Python. This can be done using the below code:
+
+{% gist 0fa6caac5b008e938a664ea24b5d7b72 %}
+
+This generates a file called "dtop.csv" in the working folder.
+
+Note: close Arduino Serial Monitor whilst running this program and vice versa - or you may face a permission conflict.
+
+Since we defined as the serial data as float in python, the values look like below in a text editor:
+
+![python_output](/img/blog/python_output.png)
