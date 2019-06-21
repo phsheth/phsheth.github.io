@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Designing a battery management system for a 18650 4s configuration - Initial Steps"
+excerpt: "Initial steps for my very short tryst with BMS"
+date:   2018-02-06 21:43:00 +0530
+categories: blog
+comments: true
+tag: battery, lithium ion
+---
+
+
+
+
+So, I have been searching the internet and books on how to design a battery management system for a 4s configuration of 18650 batteries. Now, the reason I am doing this is - to avoid using the ready made BMSs available online.
+
+The first step of designing a BMS (according to me) is measuring the voltage of each cell in series. Now - 18650s are small but pack a lot of power - shorting one of them heats them up immediately and there can be a fire hazard.
+
+So after reading a couple of forums and articles, the first pointer was towards "voltage divider" - with a warning that it is inaccurate. So I gave it a try. First using hand calculation and LT-Spice.
+
+Below is the circuit diagram:
+
+![initial_circuit](/img/blog/circuit_ltspice.png)
+
+And below is the hand calculation for the case:
+
+![calcs](/img/blog/calcs.png)
+
+The ideal case shows all ideal values for the batteries and the resistors - but the I measured the resistors and 18650s I had and they were far from ideal.
+
+So - after the hand calculation and simulation - I built the circuit with an Arduino Mega clone, tried measuring the voltages:
+
+![circuit_photograph](/img/blog/img_20180206_203715-e1517930870950.jpg)
+
+And below is the code:
+
+{% gist a79c153dbc6cf15bb1ddad77e5393f50 %}
+
+
+And the results in the serial monitor look as follows:
+
+![bms_serial_monitor](/img/blog/serial.png)
+
+
+So - as I found earlier - using voltage divider has some amount of inaccuracy - the values are off by ±0.1 volt on each battery . A few more days of research - and we will go to the next step of using a Differential Op-Amp. Only caveat is - they are costly. But they might prove to be accurate.
