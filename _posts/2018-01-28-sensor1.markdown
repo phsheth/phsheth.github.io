@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Sensor data to Internet using Arduino and PC – Part 1"
+excerpt: "Part 1 of 3 for uploading sensor data to internet."
+date:   2018-01-28 22:49:00 +0530
+categories: blog
+comments: true
+tag: sensors, iot, python
+---
+
+In the past two years - I have attempted transmitting Arduino serial data to the internet using various ways. Using proprietary service like ThingSpeak were not appealing to me (and hence, never even attempted using the service) as the data gets uploaded to their servers and you cannot present them the way I want to.
+
+So this series of blog posts document the transmitting of Arduino serial data to a file storage like Google Sheets or DropBox efficiently and standardise it across all my projects (which may or may  not be documented here). Once this is achieved, then the data can be used for all purposes like data science and machine learning.
+
+Please comment if you find any error in what I have documented here.
+
+Part 1: Arduino Setup and Code:
+
+So - we need to generate data from the Arduino - we do this using a photo resistor and a DS3231 real time clock.
+
+Circuit:
+
+![circuit](/img/blog/circuit.png)
+
+Heres how the circuit setup looks like:
+
+![circuit_photograph](/img/blog/img_20180128_225304.jpg)
+
+Code (there is some 16x2 LCD code as well in the code - you may ignore it):
+
+{% gist 111d3667f004e4edf184911a89b62808 %}
+
+As you can see from the code - the output is slightly modified so that it is "Python readable" i.e. easy to be read and sorted without much effort.
+
+The serial monitor output looks like:
+
+![serial_output](/img/blog/serial_output.png)
+
+In Part 2, I will elaborate on the python code to read serial and save it as a .csv file.
