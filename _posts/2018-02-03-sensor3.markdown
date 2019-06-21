@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Sensor data to Internet using Arduino and PC – Part 3"
