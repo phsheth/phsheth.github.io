@@ -15,16 +15,12 @@ Data Basics:
         -   Ordinal (ordered categorical): These are ordered ratings. Example: High/Medium/Low, etc. </br>
 
 Types of Studies:
-
     a.  Observational:</br>
-    
         -   Collect data so that the subjects/machines are not interfered with (and do not know that they are being observed)</br>
         -   Only establish correlation</br>
         -   Uses past data only.</br>
         -   data are collected throught out the study</br>
-
-    b. Experimental:</br>
-    
+    b. Experimental:<br>
         -   randomly assign subjects to groups (for different treatments)</br>
         -   establish causation</br>
 
@@ -37,7 +33,9 @@ Example:</br>
 Confounding variables:</br>
     Extraneous veriables that affect both the explanatory and the response variable, and that make it seem like there is a relationship betwee them are called confounding variables.</br>
     
-    "Correlation does not imply causation"</br>
+"Correlation does not imply causation" </br>
     
-    ![]https://imgs.xkcd.com/comics/correlation.png
-     
+    ![](https://imgs.xkcd.com/comics/correlation.png)
+
+Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.</br>
+Source: https://xkcd.com/552/
