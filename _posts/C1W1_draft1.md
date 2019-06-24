@@ -65,3 +65,39 @@ Hence - sampling is favoured. The lecturer compares sampling to tasting the food
 2. Stratified Sample: Divide the population into homogenous strata, then randomly sample from within each stratum.
 3. Cluster Sample: divide the population into clusters, randomly sample a few clusters, then sample all ovservations within these clusters.
 4. Multistage Sample: divide the population clusters, randomly sample a few clusters, then randomly sample within thes clusters.
+
+===
+
+### Experimental Design:
+
+#### Principles of experimental design:
+1. Control: compare treat of interest to a control group
+2. Randomise: randomly assign subjects to treatments
+3. Replicate: collect a sufficiently large sample, or replace the entire study.
+4. Block: block for variables known or suspected to affect the outcome.
+
+#### What is Blocking?
+- design an experiment investigating whether energy gel helps you run faster:
+  - treatment: energy gel
+  - control: no energy gel
+- energy gel might affect pro and amateur athletes diffrently
+- block for pro status:
+  - divide the sample to pro and amateur athletes
+  - randomly assign pro and ameteur athletes to treatment and control groups
+  - pro and amateur athletes are equally represented in both groups
+  
+#### Blocking vs. Explanatory variables:
+- explanatory variables (factors) - conditions we can impose on experimental units
+- block variables - characteristics that the experimental units come with, that we would like to control for
+- block is like stratifying:
+  - blocking during random assignment
+  - stratifying during random sampling
+
+### Experimental Terminology:
+- placebo: fake treatment, often used as the control group for medical studies
+- placebo effect: showing change despite being on the placebo
+- blinding: experimental units don't know which group they are in
+- double blind: both the experimental units and the researchers don't know the group assigment
+
+===
+
