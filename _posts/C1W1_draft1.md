@@ -33,7 +33,7 @@ Confounding variables:</br>
     
 "Correlation does not imply causation" </br>
     
-    ![](https://imgs.xkcd.com/comics/correlation.png)
+![Correlation](https://imgs.xkcd.com/comics/correlation.png)
 
 Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.</br>
 Source: https://xkcd.com/552/
