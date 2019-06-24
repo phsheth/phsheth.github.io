@@ -10,8 +10,6 @@ Data Basics
         -   Continuous: Infinite number of values in a given range </br>
         -   Discreet: Specific set of numeric values. </br>
         
-    b.  Categorical (Qualitative): These can be ratings or levels. Arithmetic operations are not possible of these. They can be sub-categorised as:
-    
-        i.  Nominal (regular categorical): These are unordered categorical. Example: what do you prefer for dessert: icecream or jelly. Or are you morning person or afternoon person.
-        
-        ii. Ordinal (ordered categorical): These are ordered ratings. Example: High/Medium/Low, etc.
+    b.  Categorical (Qualitative): These can be ratings or levels. Arithmetic operations are not possible of these. They can be sub-categorised as: </br>
+        -   Nominal (regular categorical): These are unordered categorical. Example: what do you prefer for dessert: icecream or jelly. Or are you morning person or afternoon person. </br>
+        -   Ordinal (ordered categorical): These are ordered ratings. Example: High/Medium/Low, etc. </br>
