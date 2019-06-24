@@ -4,7 +4,7 @@ Week 1
 
 Data Basics:
 
-1.  Two types of variables:</br>
+Types of variables:</br>
     a.  Numerical (Quantitative): These are values collected over time and can be added, subtracted, averaged. Examples: Temperature or pressure readings. Stock market prices, etc. They can be sub-categorised as: </br>
         -   Continuous: Infinite number of values in a given range </br>
         -   Discreet: Specific set of numeric values. </br>
