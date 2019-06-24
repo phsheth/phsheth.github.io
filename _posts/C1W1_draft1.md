@@ -16,6 +16,7 @@ b. Categorical (Qualitative): These can be ratings or levels. Arithmetic operati
    - Ordinal (ordered categorical): These are ordered ratings. Example: High/Medium/Low, etc. </br>
 
 Types of Studies:</br>
+
 a. Observational:</br>
    - Collect data so that the subjects/machines are not interfered with (and do not know that they are being observed)</br>
    - Only establish correlation</br>
