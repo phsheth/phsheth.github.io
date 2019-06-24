@@ -16,14 +16,14 @@ Data Basics:
 
 Types of Studies:
 
-    a.  Observational:
+    a.  Observational:</br>
     
         -   Collect data so that the subjects/machines are not interfered with (and do not know that they are being observed)</br>
         -   Only establish correlation</br>
         -   Uses past data only.</br>
         -   data are collected throught out the study</br>
-        -   
-    b. Experimental:
+
+    b. Experimental:</br>
     
         -   randomly assign subjects to groups (for different treatments)</br>
         -   establish causation</br>
