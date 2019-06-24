@@ -29,7 +29,7 @@ Example:</br>
      Average energy levels are compared.</br>
      
 Confounding variables:</br>
-    Extraneous veriables that affect both the explanatory and the response variable, and that make it seem like there is a relationship betwee them are called confounding variables.</br>
+    Extraneous variables that affect both the explanatory and the response variable, and that make it seem like there is a relationship betwee them are called confounding variables.</br>
     
 "Correlation does not imply causation" </br>
     
