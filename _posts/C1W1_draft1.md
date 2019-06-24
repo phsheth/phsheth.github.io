@@ -16,13 +16,15 @@ Data Basics:
 
 Types of Studies:
 
-    a.  Observational: </br>
+    a.  Observational:
+    
         -   Collect data so that the subjects/machines are not interfered with (and do not know that they are being observed)</br>
         -   Only establish correlation</br>
         -   Uses past data only.</br>
         -   data are collected throught out the study</br>
         -   
-    b. Experimental: </br>
+    b. Experimental:
+    
         -   randomly assign subjects to groups (for different treatments)</br>
         -   establish causation</br>
 
@@ -35,6 +37,7 @@ Example:</br>
 Confounding variables:</br>
     Extraneous veriables that affect both the explanatory and the response variable, and that make it seem like there is a relationship betwee them are called confounding variables.</br>
     
-    "Correlation does not imply causation"
+    "Correlation does not imply causation"</br>
+    
     ![]https://imgs.xkcd.com/comics/correlation.png
      
