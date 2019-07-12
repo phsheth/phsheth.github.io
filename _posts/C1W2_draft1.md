@@ -34,3 +34,12 @@ e. Intensity map:
 ===
 
 ### Measures of Center:
+Commonly used measures of center:
+- Mean: arithmetic average
+- Median: midpoint of distribution (50th percentile)
+- Mode: most frequent observation
+
+Skewness vs. Measures of Center:
+- Left skewed: mean < median
+- Symmetric: mean ~ median
+- Right skewed: mean > media
