@@ -17,4 +17,11 @@ Evaluating a relationship:
 b. Histograms: 
   - provides view of the data density
   - especially useful for describing the shape of distribution
-    - Left Skewed or Right Skewed.
+    - Symmetric, Left Skewed (long tail on left) or Right Skewed (long tail on right).
+  - Modality:
+    - Unimodal (single prominent peak), Bimodal (two peaks), uniform (i would call it plateau) or multimodal (many peaks).
+  - Histogram and bin width:
+    - Too wide a bin width can cause some data to not get visualised, too narrow a bin width can make it difficult to get an overall picture of the distribution. Ideal bin width depends on the data - so some iteration is required before a proper bin width that tells the story appropriately is achieved.
+
+c. Dotplot:
+  - dotplot 
