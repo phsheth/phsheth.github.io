@@ -43,3 +43,7 @@ Skewness vs. Measures of Center:
 - Left skewed: mean < median
 - Symmetric: mean ~ median
 - Right skewed: mean > media
+   
+===
+
+### Measures of Spread:
