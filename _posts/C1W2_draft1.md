@@ -1,10 +1,8 @@
-
 # Introduction to Probability and Data
 
 ## Week 2: a. Exploring Numerical Data
 
-
-#### Visualising Numerical Data:
+### Visualising Numerical Data:
 
 a. Scatter Plots: Usually Exploratory variables are plotted on x-axes and response variables are plotted on y-axes. But this does not mean that relationship between the two is causal [correlation does not imply causation].
 
@@ -24,4 +22,15 @@ b. Histograms:
     - Too wide a bin width can cause some data to not get visualised, too narrow a bin width can make it difficult to get an overall picture of the distribution. Ideal bin width depends on the data - so some iteration is required before a proper bin width that tells the story appropriately is achieved.
 
 c. Dotplot:
-  - dotplot 
+  - useful when individual values are of interest
+  - can get busy as the sample size increases
+
+d. Box plot:
+  - used for highlighting outliers, median, IQR.
+  
+e. Intensity map:
+  - useful for highlighting spatial distribution
+  
+===
+
+### Measures of Center:
