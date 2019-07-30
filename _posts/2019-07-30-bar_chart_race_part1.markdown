@@ -3,9 +3,9 @@ layout: post
 title:  "Quest for the Bar Chart Race - Part 1"
 excerpt: "There have been many bar chart races around me, this is my look at how to create a bar chart race, from easy to difficult."
 date:   2019-07-30 16:30:00 +0530
-categories: data science, blog, bar chart race
+categories: blog
 comments: true
-tag: blog
+tag: data science, bar chart race
 ---
 
 So, there have been many bar chart race [BCR henceforth] visualisations around on the internet. The latest one was used by Formula 1 to show driver positions and visualising the entire race on a bar chart. BCRs are pretty cool. They are animated, and show the position, and progress dynamically.
