@@ -27,3 +27,5 @@ Now let me be honest with you - I started off with creating the BCR on matplotli
 
 
 <div class="flourish-embed" data-src="visualisation/551072"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+In the next post, I will try making a BCR using matplotlib.
