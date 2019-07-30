@@ -29,3 +29,9 @@ Now let me be honest with you - I started off with creating the BCR on matplotli
 <div class="flourish-embed" data-src="visualisation/551072"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 In the next post, I will try making a BCR using matplotlib.
+
+Update: 
+
+Just a good segue from motor vehicle production - I had a look at steel production in countries over the years:
+
+<div class="flourish-embed flourish-bar_race" data-src="visualisation/552605"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
