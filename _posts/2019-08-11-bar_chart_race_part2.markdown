@@ -31,7 +31,7 @@ cell 9.	 Change the datatype in the table from object to float64
 
 cell 11.	Fill all NaN values with zero.
 
-12.	Make the countrys columns from row index to a column again.
+cell 12.	Make the countrys columns from row index to a column again.
 
 cell 13. to 18.
 
