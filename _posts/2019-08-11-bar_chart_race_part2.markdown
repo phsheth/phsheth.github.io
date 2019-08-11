@@ -25,17 +25,13 @@ cell 4.	display the dataframe
 
 cell 5.	make the country the row index.
 
-cell 6.  to 9.
-
-cell 9.	 Change the datatype in the table from object to float64
+cell 6.  to 9. Change the datatype in the table from object to float64
 
 cell 11.	Fill all NaN values with zero.
 
 cell 12.	Make the countrys columns from row index to a column again.
 
-cell 13. to 18.
-
-cell18.	take each year, sort the countries by car production and plot them on a horizontal barchart.
+cell 13. to 18. take each year, sort the countries by car production and plot them on a horizontal barchart.
 
 
 Once we have all the images, they can be assembled into a gif using Python again. Not doing that for this attempt because I know the results are not going to be very impressive. Let us give it a more detailed look in the next post.
