@@ -15,21 +15,3 @@ I had considered working on Kaggle about two years back - but never got around t
 So, the learner's competition that Kaggle is hosting is [Classify forest types based on information about the area](https://ph.sheth.cc/blog/2018/12/17/2018_review/). The training data they have given is from a dataset provided by Jock A. Blackard and Colorado State University. It is a set of observations taken on 30m x 30m patch of land, which finally points to the type of tree which is the label. Our job is to come up with an accurate machine learning model that will predict the type of tree from the given data.
 
 I started by applying the same strategy I had used for the GE Analytics Certification](https://ph.sheth.cc/blog/2018/12/17/2018_review/) case study. Without going into the problem statement of the case study (because it is GE internal data, and I cannot discuss it here in public domain), here is the general strategy I used:
-
-
-```flowchart
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
-```
