@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Month at Kaggle"
+title:  "First Month Competing at Kaggle"
 excerpt: "I took part in my first Kaggle competition. Probably a start of my competitive machine learning journey."
 date:   2019-09-05 20:30:00 +0530
 categories: blog
