@@ -30,3 +30,7 @@ General thoughts:
 
 
 One hopes this goes well, and hope I land up in the private leader board as well, also, hope to take part in more competitions as well! You can access my [Kaggle Profile here](https://www.kaggle.com/phsheth/) and [Kernels here](https://www.kaggle.com/phsheth/kernels).
+
+Edit [10 Sept 2019 | 00:38]:
+1. Learnt Bayesian HyperParameter Tuning.
+2. Became a Kaggle Kernels Expert!
