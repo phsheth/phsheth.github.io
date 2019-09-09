@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Month at Kaggle"
+title:  "First Month Competing at Kaggle"
 excerpt: "I took part in my first Kaggle competition. Probably a start of my competitive machine learning journey."
 date:   2019-09-05 20:30:00 +0530
 categories: blog
@@ -30,7 +30,10 @@ General thoughts:
 
 
 One hopes this goes well, and hope I land up in the private leader board as well, also, hope to take part in more competitions as well! You can access my [Kaggle Profile here](https://www.kaggle.com/phsheth/) and [Kernels here](https://www.kaggle.com/phsheth/kernels).
+<<<<<<< HEAD
 
 Edit [10 Sept 2019 | 00:38]:
 1. Learnt Bayesian HyperParameter Tuning.
 2. Became a Kaggle Kernels Expert!
+=======
+>>>>>>> d453d727404f3bc961f305406e805fa05e19d239
