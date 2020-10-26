@@ -1,12 +1,20 @@
 ---
+
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
+
 ---
+
 # Work Experience
+
+**Advanced Lead Engineer/Technologist**
+*GE Transportation [a Wabtec company], Bengaluru, India*
+*May 2020-- Present*
+
 **Lead Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
-*May 2016 -- Present*
+*May 2016 -- April 2020*
 
 *GE Analytics Engineer Certification [Nov 2018]*
 
