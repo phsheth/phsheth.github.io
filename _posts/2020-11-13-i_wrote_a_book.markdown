@@ -8,7 +8,7 @@ comments: true
 tag: textbook, book, Python, Flask
 ---
 
-<img title="" src="/img/blog/f4en_bookcover.png" alt="Front cover" width="" align="left">
+<img title="" src="/img/blog/f4en_bookcover.png" alt="Front cover" width="35%" align="left">
 
 I have written a book called **Build Engineering Applications using Python and Flask**. 
 
