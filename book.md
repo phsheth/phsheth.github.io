@@ -5,7 +5,7 @@ permalink: /book/
 
 ---
 
-<img src="https://img.shields.io/badge/F4EN-Build%20Engineering%20Applications%20using%20Python%20and%20Flask-blue" align="left"/> </br>
+<img src="https://img.shields.io/badge/F4EN-Build%20Engineering%20Applications%20using%20Python%20and%20Flask-blue" align="left"/> <br>
 
 **F4EN: Build Engineering Applications using Python and Flask**, Pushkar Sheth
 
