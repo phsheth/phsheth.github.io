@@ -14,6 +14,10 @@ For a single degree of freedom spring-mass-dashpot system, the ratio of the ampl
 
 Often, engineers working on vibration of systems, need to characterise the output of their systems. Building a simple application using Flask can make this easy and also avoid errors that get caused whilst performing these complex calculations. These apps can further be extended for optimising the system to meet the operating requirements.
 
+The apps hold the capability of producing publication level plots, that can be used for engineering and scientific research publications also.
+
+The plots can also be made interactive if the bokeh library is used inplace of matplotlib.
+
 The above plot has been made using matplotlib, Python and Flask. My book <b>Build Engineering Applications using Python and Flask</b> teaches the reader how to make these apps and also implement optimisation algorithms to perform engineering calculations and build systems.
 
 <a href="https://http://cae.pythonanywhere.com">Click here to use the app live on PythonAnywhere</a>

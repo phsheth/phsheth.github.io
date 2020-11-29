@@ -26,6 +26,5 @@ permalink: pretty
 kramdown:
   input: GFM
   hard_wrap: true
-
 # Google Analytics
 google_analytics: UA-124253635-1
