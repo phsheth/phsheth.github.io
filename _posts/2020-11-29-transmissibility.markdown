@@ -27,3 +27,5 @@ The book can be purchased on Amazon Kindle using the below links:
 From India: [Click here to buy on amazon.in](https://www.amazon.in/dp/B08NF2R4GF/ref=sr_1_6?dchild=1&keywords=build+engineering+applications&qid=1605250772&sr=8-6).
 
 From USA: [Click here to buy on amazon.com](https://www.amazon.com/dp/B08NF2R4GF/ref=sr_1_1?dchild=1&keywords=build+engineering+applications+using+python+and+flask&qid=1605251594&sr=8-1).
+
+Or go to your country specific Amazon website.
