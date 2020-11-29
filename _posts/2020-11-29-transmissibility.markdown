@@ -8,7 +8,7 @@ comments: true
 tag: textbook, book, Python, Flask
 ---
 
-<img title="" src="file:///C:/Users/cae/work/ph.sheth.cc/phsheth.github.io/img/blog/transmissibility.png" alt="Front cover" width="519" align="left" style="padding-right: 20px">
+<img title="" src="/img/blog/transmissibility.png" alt="Front cover" width="519" align="left" style="padding-right: 20px">
 
 For a single degree of freedom spring-mass-dashpot system, the ratio of the amplitude of the response $x_p(t)$ to that of the base motion $y(t)$, $\dfrac{x}{y}$ is called the <i>displacement transmissibility</i>, as defined by S.S. Rao in <i>Mechanical Vibrations</i>.
 
