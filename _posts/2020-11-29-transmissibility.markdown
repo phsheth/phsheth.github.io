@@ -20,7 +20,7 @@ The plots can also be made interactive if the bokeh library is used inplace of m
 
 The above plot has been made using matplotlib, Python and Flask. My book <b>Build Engineering Applications using Python and Flask</b> teaches the reader how to make these apps and also implement optimisation algorithms to perform engineering calculations and build systems.
 
-<a href="https://http://cae.pythonanywhere.com">Click here to use the app live on PythonAnywhere</a>
+<a href="https://cae.pythonanywhere.com">Click here to use the app live on PythonAnywhere</a>
 
 The book can be purchased on Amazon Kindle using the below links:
 
