@@ -2,7 +2,7 @@
 layout: post
 title:  "Interesting Weekend"
 excerpt: "A look at machine learning for mechanical properties from checmical composition of metals."
-date:   2020-07-17 22:40:00 +0530
+date:   2022-07-17 22:40:00 +0530
 categories: blog
 comments: true
 tag: machine learning, mechanical engineering
