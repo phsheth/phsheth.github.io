@@ -20,4 +20,9 @@ Within MatMiner are included some datasets that can be used for the library, one
 
 Now that we have a "Citable" and "credible" data source (which has already been cleaned) - we can perform some exploratory data analysis on it.
 
+What further comes in mind is - what can we do with this data - apart from building a chemical composition to strength "predictor" model:
+1. We can build a learning tool which can help us visualise - adding which material to the steel increases its strength.
+2. Further visualise the stress-life and strain-life effect from chemical composition perspecitve.
+3. many other applications!
+
 More updates in coming days!
