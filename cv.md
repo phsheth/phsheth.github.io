@@ -8,9 +8,13 @@ permalink: /cv/
 
 # Work Experience
 
+**Engineering Technical Leader**
+*GE Transportation [a Wabtec company], Bengaluru, India*
+*October 2024 -- Present*
+
 **Advanced Lead Engineer/Technologist**
 *GE Transportation [a Wabtec company], Bengaluru, India*
-*May 2020-- Present*
+*May 2020 -- October 2024*
 
 **Lead Engineer/Technologist**
 *GE Transportation, Bengaluru, India*
